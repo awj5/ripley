@@ -1,0 +1,11 @@
+[
+  {
+    "uid": "ace-sydney",
+    "name": "Ace Hotel",
+    "neighborhood": "surry-hills",
+    "address": "47-53 Wentworth Ave, Sydney NSW 2000, Australia",
+    "coords": { "lat": "-33.878801", "lng": "151.209983" },
+    "website": "https://acehotel.com/sydney/",
+    "booking": "https://reservations.acehotel.com/?hotel=35963"
+  }
+]

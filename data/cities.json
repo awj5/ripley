@@ -1,0 +1,43 @@
+[
+  {
+    "uid": "london",
+    "name": "London",
+    "neighborhoods": [
+      { "uid": "soho-london", "name": "Soho" },
+      { "uid": "notting-hill", "name": "Notting Hill" }
+    ]
+  },
+  {
+    "uid": "los-angeles",
+    "name": "Los Angeles",
+    "neighborhoods": [
+      { "uid": "silver-lake", "name": "Silver Lake" },
+      { "uid": "west-hollywood", "name": "West Hollywood" }
+    ]
+  },
+  {
+    "uid": "new-york",
+    "name": "New York",
+    "neighborhoods": [
+      { "uid": "soho-new-york", "name": "SoHo" },
+      { "uid": "lower-east-side", "name": "Lower East Side" }
+    ]
+  },
+  {
+    "uid": "sydney",
+    "name": "Sydney",
+    "viewport": "-34.118347,150.520929 -33.578141,151.343021",
+    "neighborhoods": [
+      { "uid": "surry-hills", "name": "Surry Hills", "viewport": "-33.892073,151.201822 -33.876857,151.218242" },
+      { "uid": "paddington", "name": "Paddington", "viewport": "-33.88991,151.218186 -33.876779,151.237622" }
+    ]
+  },
+  {
+    "uid": "tokyo",
+    "name": "Tokyo",
+    "neighborhoods": [
+      { "uid": "shinjuku", "name": "Shinjuku" },
+      { "uid": "shibuya", "name": "Shibuya" }
+    ]
+  }
+]
